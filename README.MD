@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Vazquez, Facundo Gaston*  
+- **Nombre:** Vazquez, Facundo Gaston
 - **Comisión:** M2025-22   
 
 ## 📂 Descripción del Repositorio  
