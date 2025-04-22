@@ -18,12 +18,12 @@ imprima por pantalla una oración con los datos ingresados. Por ejemplo: si el u
 “Marcos”, “Pérez”, “30” y “Argentina”, el programa debe imprimir “Soy Marcos Pérez, tengo 30
 años y vivo en Argentina” """
 
-# nombre = input("Ingrese su nombre: ")
+# snombre = input("Ingrese su nombre: ")
 # apellido = input("Ingrese su apellido: ")
 # edad = int(input("Ingrese su edad: "))
 # pais = input("Ingrese su lugar de residencia: ")
 
-# print(f"Soy {nombre} {apellido}, tengo {edad} años y vivo en {pais}.")
+#print(f"Soy {nombre} {apellido}, tengo {edad} años y vivo en {pais}.")
 
 #########################################################################
 
